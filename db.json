@@ -1,0 +1,111 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "checked": false,
+      "title": "Broccoli",
+      "img": "http://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-seeds-broccoli-green-imported-vegetable-seeds-16969059795084.jpg?v=1634203193",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "title": "Baby Spinach",
+      "img": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c3BpbmFjaHxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "price": 100
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "title": "Cabbage",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn_w_TaY-IYD2bw2_LNzoiDu4TmbGzU_i4fg&usqp=CAU",
+      "price": 100
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "title": "Tomato",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVznWpcVMw1U8IDYubzMW_rKGsjj-_SiuMCQ&usqp=CAU",
+      "price": 100
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "title": "Peas",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIcKTL64K1b_66HzuLdOfQvRAkz5BvzRRQig&usqp=CAU",
+      "price": 100
+    },
+    {
+      "id": 6,
+      "checked": false,
+      "title": "Egg Plant",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Solanum_melongena_24_08_2012_%281%29.JPG/1200px-Solanum_melongena_24_08_2012_%281%29.JPG",
+      "price": 100
+    },
+    {
+      "id": 7,
+      "checked": false,
+      "title": "Cucumber",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/96/ARS_cucumber.jpg",
+      "price": 100
+    },
+    {
+      "id": 8,
+      "checked": false,
+      "title": "Pumpkin",
+      "img": "https://cdn.britannica.com/75/193675-050-C9C95F78/pumpkin-patch.jpg",
+      "price": 100
+    },
+    {
+      "id": 9,
+      "checked": false,
+      "title": "Peppers",
+      "img": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2022/1/27/1/shutterstock_1718379988.jpg.rend.hgtvcom.616.411.suffix/1643327070208.jpeg",
+      "price": 100
+    },
+    {
+      "id": 10,
+      "checked": false,
+      "title": "String beans",
+      "img": "https://www.bhg.com/thmb/KvY0Mwy_uAVqKrlYfwsSNBCv8sQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/derby-bean-72670a8b-dd4d3bd1d27045bdb46a1d6bcc2b36ed.jpg",
+      "price": 100
+    },
+    {
+      "id": 11,
+      "checked": false,
+      "title": "Corn",
+      "img": "https://cdn.britannica.com/36/167236-050-BF90337E/Ears-corn.jpg",
+      "price": 100
+    },
+    {
+      "id": 12,
+      "checked": false,
+      "title": "Bitter gourd",
+      "img": "http://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-seeds-bitter-gourd-f1-santur-vegetable-seeds-16969056157836.jpg?v=1634202976",
+      "price": 100
+    },
+    {
+      "id": 13,
+      "checked": false,
+      "title": "Lady’s finger",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/95/Hong_Kong_Okra_Aug_25_2012.JPG",
+      "price": 100
+    },
+    {
+      "id": 14,
+      "checked": false,
+      "title": "Arugula",
+      "img": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/282769_2200-800x1200.jpg",
+      "price": 100
+    }
+  ],
+  "cart": [
+    {
+      "id": 2,
+      "checked": false,
+      "title": "Baby Spinach",
+      "img": "https://media.istockphoto.com/photos/baby-spinach-in-the-garden-picture-id121286472",
+      "price": 100
+    }
+  ]
+}
